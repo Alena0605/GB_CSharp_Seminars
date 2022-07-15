@@ -1,0 +1,15 @@
+C:\Users\Беловы\OneDrive\Рабочий стол\Разработчик\1 четверть\Знакомство с языками программирования\Seminars\Seminar_1\Task001_Sqrt\bin\Debug\net6.0\Task001_Sqrt.exe
+C:\Users\Беловы\OneDrive\Рабочий стол\Разработчик\1 четверть\Знакомство с языками программирования\Seminars\Seminar_1\Task001_Sqrt\bin\Debug\net6.0\Task001_Sqrt.deps.json
+C:\Users\Беловы\OneDrive\Рабочий стол\Разработчик\1 четверть\Знакомство с языками программирования\Seminars\Seminar_1\Task001_Sqrt\bin\Debug\net6.0\Task001_Sqrt.runtimeconfig.json
+C:\Users\Беловы\OneDrive\Рабочий стол\Разработчик\1 четверть\Знакомство с языками программирования\Seminars\Seminar_1\Task001_Sqrt\bin\Debug\net6.0\Task001_Sqrt.dll
+C:\Users\Беловы\OneDrive\Рабочий стол\Разработчик\1 четверть\Знакомство с языками программирования\Seminars\Seminar_1\Task001_Sqrt\bin\Debug\net6.0\Task001_Sqrt.pdb
+C:\Users\Беловы\OneDrive\Рабочий стол\Разработчик\1 четверть\Знакомство с языками программирования\Seminars\Seminar_1\Task001_Sqrt\obj\Debug\net6.0\Task001_Sqrt.csproj.AssemblyReference.cache
+C:\Users\Беловы\OneDrive\Рабочий стол\Разработчик\1 четверть\Знакомство с языками программирования\Seminars\Seminar_1\Task001_Sqrt\obj\Debug\net6.0\Task001_Sqrt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Беловы\OneDrive\Рабочий стол\Разработчик\1 четверть\Знакомство с языками программирования\Seminars\Seminar_1\Task001_Sqrt\obj\Debug\net6.0\Task001_Sqrt.AssemblyInfoInputs.cache
+C:\Users\Беловы\OneDrive\Рабочий стол\Разработчик\1 четверть\Знакомство с языками программирования\Seminars\Seminar_1\Task001_Sqrt\obj\Debug\net6.0\Task001_Sqrt.AssemblyInfo.cs
+C:\Users\Беловы\OneDrive\Рабочий стол\Разработчик\1 четверть\Знакомство с языками программирования\Seminars\Seminar_1\Task001_Sqrt\obj\Debug\net6.0\Task001_Sqrt.csproj.CoreCompileInputs.cache
+C:\Users\Беловы\OneDrive\Рабочий стол\Разработчик\1 четверть\Знакомство с языками программирования\Seminars\Seminar_1\Task001_Sqrt\obj\Debug\net6.0\Task001_Sqrt.dll
+C:\Users\Беловы\OneDrive\Рабочий стол\Разработчик\1 четверть\Знакомство с языками программирования\Seminars\Seminar_1\Task001_Sqrt\obj\Debug\net6.0\refint\Task001_Sqrt.dll
+C:\Users\Беловы\OneDrive\Рабочий стол\Разработчик\1 четверть\Знакомство с языками программирования\Seminars\Seminar_1\Task001_Sqrt\obj\Debug\net6.0\Task001_Sqrt.pdb
+C:\Users\Беловы\OneDrive\Рабочий стол\Разработчик\1 четверть\Знакомство с языками программирования\Seminars\Seminar_1\Task001_Sqrt\obj\Debug\net6.0\Task001_Sqrt.genruntimeconfig.cache
+C:\Users\Беловы\OneDrive\Рабочий стол\Разработчик\1 четверть\Знакомство с языками программирования\Seminars\Seminar_1\Task001_Sqrt\obj\Debug\net6.0\ref\Task001_Sqrt.dll
