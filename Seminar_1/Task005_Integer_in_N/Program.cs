@@ -3,15 +3,21 @@
 а на выходе показывает все целые числа в промежутке от -N до N.
 */
 
-Console.WriteLine("Введите число: ");
-int number = Convert.ToInt32(Console.ReadLine());
-int startNumber = -number;
-
-while (startNumber != (number + 1))
+void Task_5()
 {
-    Console.Write(startNumber + ",");
-    startNumber++;
+    Console.WriteLine("Введите число: ");
+    int number = Convert.ToInt32(Console.ReadLine());
+    number = Math.Abs(number);
+    int startNumber = -number;
+
+    while (startNumber != (number + 1))
+    {
+        Console.Write(startNumber + ",");
+        startNumber++;
+    }
+
+    Console.Write("\b.");
+    Console.WriteLine();
 }
 
-Console.Write("\b.");
-Console.WriteLine();
+Task_5();
