@@ -32,7 +32,7 @@ void PrintArray(int[] array)
 */
 
 int size = 7;
-int [] array = new int[size];
+int[] array = new int[size];
 
 FillArray(array, 0, 10);
 PrintArray(array);
