@@ -33,7 +33,7 @@ void PrintArray(int[] array)
 int size = 10;
 int[] array = new int[size];
 
-FillArray(array, -150, 151);
+FillArray(array, -150, 150);
 PrintArray(array);
 
 int count = 0;
@@ -42,4 +42,4 @@ for (int i = 0; i < size; i++)
     if (array[i] >= 10 && array[i] < 100) count++;
 }
 
-Console.WriteLine(count + " чисел в массиве находятся в промежутке [10, 99]");
+Console.WriteLine("Количество чисел, лежащих в промежутке [10, 99]: " + count);
