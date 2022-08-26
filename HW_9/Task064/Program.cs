@@ -16,4 +16,4 @@ void NumbersMultiplyOfThree(int m, int n)
     NumbersMultiplyOfThree(m, n);
 }
 
-NumbersMultiplyOfThree(15, 29);
+NumbersMultiplyOfThree(1, 9);
